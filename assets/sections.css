@@ -405,6 +405,9 @@ li {
     #projects{
         text-align: center
     }
+    #projects li{
+        margin: 30px 0 10px 0
+    }
     .contact-col a{
         font-size: 1.4em
     }
@@ -481,7 +484,10 @@ li {
     }
     #projects{
         padding-bottom: 10px
-    }    
+    } 
+    #projects ul{
+        margin-bottom: 0px
+    }
 }
 @media screen and (min-width: 768px) {
     #name {
