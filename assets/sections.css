@@ -5,7 +5,7 @@ html,body {
     height: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-x: hidden 
+    overflow-x: hidden
 }
 #bridge {
     position: fixed;
@@ -484,7 +484,7 @@ li {
     }
     #projects{
         padding-bottom: 10px
-    } 
+    }
     #projects ul{
         margin-bottom: 0px
     }
@@ -678,6 +678,12 @@ li {
         height: 632px
     }
     #about-me {
+        height: 632px
+    }
+    #web-skills {
+        height: 632px
+    }
+    #languages-skills {
         height: 632px
     }
 }
