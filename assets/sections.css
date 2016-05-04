@@ -681,9 +681,41 @@ li {
         height: 632px
     }
     #web-skills {
-        height: 632px
+        height: 500px
     }
     #languages-skills {
-        height: 632px
+        height: 500px
+    }
+}
+@media screen and (min-width: 1800px) {
+    #name {
+        font-size: 6em
+    }
+    #intro-box h2 {
+        font-size: 2em
+    }
+    #profile {
+        height: 750px
+    }
+    #profile ul p {
+        font-size: 1.6em
+    }
+    #profile li {
+        font-size: 1em
+    }
+    #about-me {
+        height: 750px
+    }
+    #about-me p {
+        font-size: 1.4em
+    }
+    #web-skills {
+        height: 450px
+    }
+    #languages-skills {
+        height: 450px
+    }
+    body{
+        font-size: 2em
     }
 }
