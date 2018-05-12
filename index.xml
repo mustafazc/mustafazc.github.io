@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mustafa ZC</title>
+    <link>https://mustafazc.com/</link>
+    <description>Recent content on Mustafa ZC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 May 2018 18:31:55 +0400</lastBuildDate>
+    
+	<atom:link href="https://mustafazc.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Podcasts</title>
+      <link>https://mustafazc.com/podcasts/</link>
+      <pubDate>Sat, 12 May 2018 18:31:55 +0400</pubDate>
+      
+      <guid>https://mustafazc.com/podcasts/</guid>
+      <description>Here is a list of podcasts I am listening to during my commute, at the gym or any other time I get the chance! I am always interested in listening to new stuff so drop me a message.
+ Bodega Boys Do By Friday Acquired The Changelog Syntax.fm Planet Money How I Built This StackStories StartUp Reply All And quite a few more, that I don&amp;rsquo;t listen to frequently enough to mention  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://mustafazc.com/about/</link>
+      <pubDate>Sat, 12 May 2018 13:17:39 +0400</pubDate>
+      
+      <guid>https://mustafazc.com/about/</guid>
+      <description>Hello! I’m Mustafa, a software engineer currently working at Brndstr.
+I work on building chatbots with integrations for brands and on realtime systems for interactive twitter campaigns.
+I love learning new things related to programming and beyond. I spend a lot of my free time browsing Reddit or Medium for interesting tidbits of information.
+I enjoy coding as a hobby. My GitHub is currently bare but I hope to be more involved in the coming weeks.</description>
+    </item>
+    
+  </channel>
+</rss>
